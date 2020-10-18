@@ -1,4 +1,4 @@
-# Transfer_Data_From_The_Keyboard
+# Transfer_Data_From_Keyboard
 Transfer Data from keyboard 
 
 While keyboard connecting to FPGA we have this schedule to understand the operation of each socket.
